@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Dadi — Full-Stack Software Engineer
+# 👋 Hi there, I'm David — Full-Stack Software Engineer
+  [![GitHub](https://img.shields.io/badge/GitHub-DadiGang-black?logo=github)](https://github.com/DadiGang-1/) 
+  ![Profile views](https://komarev.com/ghpvc/?username=DadiGang&label=Profile%20views&color=0e75b6&style=flat)
+
 
 🎓 Graduated from ESIEA Engineering School (2024)  
 💼 Software developer since 2021 — currently leading all development (frontend, backend, database, UI/UX) in my company as the **sole engineer**  
@@ -9,7 +12,13 @@
 ## 🚀 Tech Stack
 
 **Main Languages & Tools:**  
-Java · JavaScript · TypeScript · HTML · CSS · MongoDB  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!--Java · JavaScript · TypeScript · HTML · CSS · MongoDB  -->
 
 **Other Skills:**  
 Full ownership of product lifecycle — from UI/UX design to backend architecture  
@@ -33,9 +42,14 @@ I love collaborating with passionate people and creating solutions that matter.
 
 📫 Let’s connect and build something meaningful together!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ton-codepen)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/ton-profil)
+[![MongoDB University](https://img.shields.io/badge/MongoDB_University-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://university.mongodb.com/u/ton-profil)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DadiGang&label=Profile%20views&color=0e75b6&style=flat" alt="DadiGang" /> </p>
 
+![Dadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadiGang-1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadiGang-1&layout=compact&theme=radical)
 <!--
 **DadiGang-1/DadiGang-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
