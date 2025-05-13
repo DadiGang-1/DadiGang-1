@@ -42,10 +42,11 @@ I love collaborating with passionate people and creating solutions that matter.
 
 📫 Let’s connect and build something meaningful together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ton-codepen)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/ton-profil)
-[![MongoDB University](https://img.shields.io/badge/MongoDB_University-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://university.mongodb.com/u/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-tomas-/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DadiGang-1)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/davidtomas-1034/)
+[![Credly](https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/david-tomas.8347b84a)
+
 
 
 ![Dadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadiGang-1&show_icons=true&theme=radical)
