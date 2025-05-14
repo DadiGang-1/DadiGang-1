@@ -53,7 +53,6 @@ I love collaborating with passionate people and creating solutions that matter.
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/davidtomas-1034/)
 [![Credly](https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/david-tomas.8347b84a)
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codinGame&logoColor=black)](https://www.codingame.com/profile/ef351a9cb0eb5f156c75b5c6daab312a9533215)
-
 <!--
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/ton-nom/badges)  
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/ton-nom)
