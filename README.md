@@ -52,11 +52,16 @@ I love collaborating with passionate people and creating solutions that matter.
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DadiGang-1)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/davidtomas-1034/)
 [![Credly](https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/david-tomas.8347b84a)
+[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codinGame&logoColor=black)](https://www.codingame.com/profile/ef351a9cb0eb5f156c75b5c6daab312a9533215)
 
-
+<!--
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/ton-nom/badges)  
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/ton-nom)
+-->
 
 ![Dadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadiGang-1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadiGang-1&layout=compact&theme=radical)
+
 <!--
 **DadiGang-1/DadiGang-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
