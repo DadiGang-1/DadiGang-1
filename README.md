@@ -57,7 +57,7 @@ I love collaborating with passionate people and creating solutions that matter.
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/ton-nom/badges)  
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/ton-nom)
 -->
-
+![Dadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadiGang-1&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 ![Dadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadiGang-1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadiGang-1&layout=compact&theme=radical)
 
